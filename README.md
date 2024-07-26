@@ -1,11 +1,18 @@
 Name : KANCHAN DHANAK 
+
 Company : CODTECH IT SOLUTIONS 
+
 ID : CT08DS4895
+
 Domain : INTERNET OF THINGS 
+
 Duration : 15 JULY TO AUGUST 2024
+
 Mentor : NEELA SANTHOSH KUMAR 
 
+
 Overview of the project 
+
 Project : Develop to use IOT-basis Smart home automation system.
 
 Objective 
